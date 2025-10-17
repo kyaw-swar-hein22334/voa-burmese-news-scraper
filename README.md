@@ -36,5 +36,6 @@ python voa_scraper.py
 
 Author
 
-Lunar Kim
+Kyaw Swar Hein
+
 Beginner Python Developer | Web Scraping Learner
